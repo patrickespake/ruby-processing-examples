@@ -1,0 +1,29 @@
+8
+
+dir
+29
+https://saitoobjloader.googlecode.com/svn/trunk/OBJ_Loader/library/objloader/library
+https://saitoobjloader.googlecode.com/svn
+
+
+
+2008-03-23T02:39:33.862293Z
+4
+mattditton
+
+
+svn:special svn:externals svn:needs-lock
+
+objloader.jar
+file
+46
+
+
+
+2009-07-17T22:58:48.000000Z
+7db6688c8c7825508fd8723a2b56b0c2
+2009-07-17T23:06:05.272704Z
+46
+mattditton
+has-props
+
