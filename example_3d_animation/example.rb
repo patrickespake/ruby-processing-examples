@@ -78,4 +78,4 @@ class Example < Processing::App
   end
 end
 
-Example.new :title => "Example 3D With Drag"
+Example.new :title => "Example 3D With Animation"
